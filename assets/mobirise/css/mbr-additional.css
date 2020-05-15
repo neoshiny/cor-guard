@@ -1695,3 +1695,24 @@ section.lazy-placeholder:after {
     height: auto !important;
   }
 }
+.cid-rZ23hsRbMM {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rZ23hsRbMM .title {
+  margin-bottom: 2rem;
+}
+.cid-rZ23hsRbMM .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rZ23hsRbMM a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rZ23hsRbMM a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rZ23hsRbMM textarea.form-control {
+  min-height: 188px;
+}
